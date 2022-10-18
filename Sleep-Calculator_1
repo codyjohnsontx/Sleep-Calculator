@@ -1,3 +1,4 @@
+//Cody Johnson
 const getSleepHours = day => {
   //insert below how much time per day you got for sleep //per night in hours
   switch(day) {
